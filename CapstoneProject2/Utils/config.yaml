@@ -1,0 +1,16 @@
+#data
+
+username : "evanchgladson"
+
+#Login
+login_username : "Admin"
+login_password : "admin123"
+
+#TITLE
+title : OrangeHRM
+
+option : ["User Management", "Job", "Organization", "Qualifications", "Nationalities", "Corporate Banking",
+           "Configuration"]
+
+main_menus : ["Admin", "PIM", "Leave", "Time", "Recruitment", "My Info", "Performance",
+                  "Dashboard", "Directory", "Maintenance", "Buzz"]

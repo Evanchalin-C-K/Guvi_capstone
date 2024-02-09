@@ -1,0 +1,72 @@
+1697008919781	geckodriver	INFO	Listening on 127.0.0.1:58845
+1697008922820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58846" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofileqgiMYx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697008923050	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697008923123	Marionette	INFO	Listening on port 58853
+WebDriver BiDi listening on ws://127.0.0.1:58846
+Read port: 58853
+1697008923260	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58846/devtools/browser/e5fb642f-fae1-4061-b7ad-292bb0e17f34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1697008943152	Marionette	INFO	Stopped listening on port 58853
+Dynamically enable window occlusion 1
+ngs: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697008927956	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697008928034	Marionette	INFO	Listening on port 58890
+WebDriver BiDi listening on ws://127.0.0.1:58868
+Read port: 58890
+1697008928167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58868/devtools/browser/b0cc26a2-31bb-434e-b1cc-ca1417136408
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1697008956129	Marionette	INFO	Stopped listening on port 58890
+Dynamically enable window occlusion 1
+1697009078670	geckodriver	INFO	Listening on 127.0.0.1:58964
+1697009081726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofileGsHLey"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697009081943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697009082020	Marionette	INFO	Listening on port 58973
+WebDriver BiDi listening on ws://127.0.0.1:58965
+Read port: 58973
+1697009082153	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58965/devtools/browser/ab1deb3b-35c3-45d3-81bf-89ad954dc2d7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1697009102560	Marionette	INFO	Stopped listening on port 58973
+Dynamically enable window occlusion 1
+ngs: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697009086885	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697009086982	Marionette	INFO	Listening on port 59010
+WebDriver BiDi listening on ws://127.0.0.1:58988
+Read port: 59010
+1697009087155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58988/devtools/browser/845235d3-6bfa-440d-b13b-c3253d6b2a53
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1697009115960	Marionette	INFO	Stopped listening on port 59010
+Dynamically enable window occlusion 1

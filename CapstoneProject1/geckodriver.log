@@ -1,0 +1,38 @@
+1697008739457	geckodriver	INFO	Listening on 127.0.0.1:58583
+1697008742512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58584" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\evanc\\AppData\\Local\\Temp\\rust_mozprofileSzjpBp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697008743020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697008743138	Marionette	INFO	Listening on port 58592
+WebDriver BiDi listening on ws://127.0.0.1:58584
+Read port: 58592
+1697008743359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58584/devtools/browser/313d60d4-4749-4979-9f32-46fcd26b7b02
+JavaScript error: , line 0: uncaught exception: Object
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error:console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://opensource-demo.orangehrmlive.com."
+1697008849486	Marionette	INFO	Stopped listening on port 58631
+Dynamically enable window occlusion 1
+dist/js/chunk-vendors.js?v=1689053487449, line 115: Script terminated by timeout at:
+Ja@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:171978
+k@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:171123
+s@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:171245
+i@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:172231
+d@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:172389
+821/tl/<@https://opensource-demo.orangehrmlive.com/web/dist/js/chunk-vendors.js?v=1689053487449:115:172449
+
+Dynamically enable window occlusion 1
